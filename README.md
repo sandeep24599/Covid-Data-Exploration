@@ -47,10 +47,4 @@ This repository contains SQL queries and scripts for exploring COVID-19 data, in
 
 You can use the data and insights obtained from this project to create data visualizations, reports, or dashboards for better data understanding and presentation.
 
-## License
 
-This project is licensed under the MIT License. Feel free to use and modify the code as needed.
-
----
-
-Please replace the sections with relevant information about your project. You can provide additional details, explanations, or instructions as necessary. Once you've created this README file, you can commit it to your GitHub repository along with your SQL script(s) and data sources.
