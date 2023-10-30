@@ -1,6 +1,6 @@
-# COVID-19 Data Exploration Project
+# COVID-19 Data Exploration Project using sql
 
-## Overview
+## Overview 
 
 This repository contains SQL queries and scripts for exploring COVID-19 data, including cases, deaths, vaccinations, and population statistics. The project uses SQL Server to query the data. The data is sourced from the PortfolioProject database.
 
