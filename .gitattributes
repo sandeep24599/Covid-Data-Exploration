@@ -1,2 +1,2 @@
 # Set the programming language for SQL files
-*.sql linguist-language=SQL
+*.sql linguist-language=TSQL
